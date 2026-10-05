@@ -1,8 +1,10 @@
-# 🌟 Rafaela Sommer
+# 🌟 Rafaela Sommer Gonçalves
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Rafaela%20Sommer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Rafaela%20Sommer%20Gon%C3%A7alves&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=DESENVOLVEDORA%20BACKEND%20%7C%20PYTHON%20%7C%20AUTOMA%C3%87%C3%83O%20%7C%20APIs&descAlignY=62&descSize=17&descColor=FFE1D9&color=5B1A75&colorB=C47A6D&stroke=8A2BE2&strokeWidth=2"/>
+
+</div>
 
 ### 💻 Backend Developer • Engenharia da Computação • Automação • APIs
 
