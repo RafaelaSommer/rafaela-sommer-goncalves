@@ -6,9 +6,11 @@
 
 </div>
 
+<div align="center">
+
 ### 💻 Backend Developer • Engenharia da Computação • Automação • APIs
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=750&lines=Construindo+solu%C3%A7%C3%B5es+eficientes;Desenvolvendo+APIs+e+automa%C3%A7%C3%B5es;Transformando+ideias+em+projetos;Sempre+aprendendo+e+evoluindo+%F0%9F%92%9C" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=750&lines=Construindo+solu%C3%A7%C3%B5es+eficientes;Desenvolvendo+APIs+e+automa%C3%A7%C3%B5es;Transformando+ideias+em+projetos;Sempre+aprendendo+e+evoluindo+%F0%9F%92%9C" alt="Animação de apresentação" />
 
 <br>
 
